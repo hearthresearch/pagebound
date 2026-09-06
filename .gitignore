@@ -1,0 +1,17 @@
+# Internal brainstorm specs and implementation plans. Never committed,
+# never referenced from committed files.
+docs/superpowers/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# macOS
+.DS_Store
